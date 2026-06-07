@@ -51,3 +51,8 @@
 ## License
 
 MIT © 貔貅量化
+
+## 📊 实盘战绩（实时更新）
+
+> 完整实盘数据: [pixiu-ai.cn/v10](https://pixiu-ai.cn/v10)
+
